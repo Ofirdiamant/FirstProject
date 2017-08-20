@@ -1,3 +1,9 @@
 <table> 
-
+<th>First headline</th>
+<th>First headline</th>
+<th>First headline</th>
+<td>First data</td>
+<td>First data</td>
+<td>First data</td>
+<tf>Table Footer</tf>
 </table>
